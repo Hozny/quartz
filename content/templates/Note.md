@@ -8,6 +8,6 @@ draft: true
 1. 
 
 ---
-status: #🌱 
-date: {{date}}
-tags: [[]]
+status: #🌱             
+date: {{date}}           
+tags: [[]]           

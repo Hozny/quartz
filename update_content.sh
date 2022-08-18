@@ -9,7 +9,8 @@ rm -rf ./content/*
 mkdir ./content/Zettelkasten
 
 # Assets are not protected from public view
-cp -r "${PATH_TO_EVERYTHING}/templates" "${PATH_TO_EVERYTHING}/Assets" "${PATH_TO_EVERYTHING}/_index.md" ./content
+cp ${PATH_TO_EVERYTHING}/Assets/* ./content/Zettelkasten/
+cp -r "${PATH_TO_EVERYTHING}/templates" "${PATH_TO_EVERYTHING}/_index.md" ./content
 
 # Copy all non draft files over
 grep -rl "draft:.*false" ${PATH_TO_EVERYTHING}/Zettelkasten | while read -r line ; do 
