@@ -3,7 +3,7 @@ title: "Multiprogramming process states"
 draft: false
 ---
 # Multiprogramming process states
-![](Pasted%20image%2020220112150046.png)
+![](Zettelkasten/Pasted%20image%2020220112150046.png)
 - notice a *ready* process can only go *running* from *ready*
 - notice a *waiting* process can only go *ready* (it must wait to be scheduled can't just resume once unblocked)
 

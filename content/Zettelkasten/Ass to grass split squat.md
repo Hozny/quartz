@@ -11,7 +11,7 @@ ATG split squat
 2. Elevate front foot if it is too hard to reach bottom. Add assistance for arm if still too hard. If it is still too hard go back to earlier exercises to build prerequisite strength.
 3. Lower down till full in bottom position, fully pause, come back up maintaining form.
 
-![](Pasted%20image%2020220818115418.png)
+![](Zettelkasten/Pasted%20image%2020220818115418.png)
 ## Why
 Improves knee stability and increases tendon health and mobility. Also very good for hip flexor mobility. 
 

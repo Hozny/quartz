@@ -14,7 +14,7 @@ continuous - those that can theoretically be measured to infinite accuracy (heig
 - **Warning:** be very careful of ordinal variates into discrete ones
 - Days of the week is **categorical** not ordinal, since the ordering of the days is not implied there is no reason for the order. Poor Satisfactory Good has two extremes, days of the week don't.
 
-![](Pasted%20image%2020220106171634.png)
+![](Zettelkasten/Pasted%20image%2020220106171634.png)
 - notice the difference in gaps between sizes and when mapping the sizes to 1,2,3,4...
 
 **complex** - more open ended responses. Usually require some processing to interpret them (twitter sentiment analysis)

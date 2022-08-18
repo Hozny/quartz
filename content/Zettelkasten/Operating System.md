@@ -21,7 +21,7 @@ An operating system is an abstraction of physical resources.
 
 ## Security
 Operating system is in **supervisor mode**, user is in **unpriviledged mode**. User makes request to OS which then touches resources and responds.
-![](Pasted%20image%2020220106121823.png)
+![](Zettelkasten/Pasted%20image%2020220106121823.png)
 
 Operating systems need [[Operating system multitasking \| multitatsking]]
 

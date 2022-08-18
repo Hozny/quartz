@@ -10,7 +10,7 @@ draft: false
 3. Lift your calves like a calf raise
 4. Once it is easy to do 25 reps with knee bend and ankle lifting off floor, switch to single leg for harder variation
 
-![](Pasted%20image%2020220818112830.png)
+![](Zettelkasten/Pasted%20image%2020220818112830.png)
 
 ## Why
 Two parts of the calves, gastroc and soleus. Soleus is worked more in a bent knee calf raise than standing calf raise. 

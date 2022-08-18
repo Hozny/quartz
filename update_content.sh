@@ -16,3 +16,9 @@ cp -r "${PATH_TO_EVERYTHING}/templates" "${PATH_TO_EVERYTHING}/_index.md" ./cont
 grep -rl "draft:.*false" ${PATH_TO_EVERYTHING}/Zettelkasten | while read -r line ; do 
     cp "${line}" ./content/Zettelkasten
 done
+# grep -rli '!\[\](Pasted' * | xargs -0 sed -i '' -e "s/![](Pasted/![](Zettelkasten\/Pasted/g"
+# grep -rli '!\[\](Pasted' * | xargs -0 sed -i "s/bar/bar/g"
+# find . -type f -exec sed -i '' -e "s/foo/bar/g" {} \;
+find . -type f -name '*.md' -exec sed -i '' "s/!\[\](Pasted/!\[\](Zettelkasten\/Pasted/g" {} +
+
+

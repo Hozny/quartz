@@ -3,7 +3,7 @@ title: "Boxplots"
 draft: false
 ---
 # Boxplots
-![](Pasted%20image%2020220113104552.png)
+![](Zettelkasten/Pasted%20image%2020220113104552.png)
 
 How to make one
 1. draw a box with sides at q(0.25) and q(0.75)

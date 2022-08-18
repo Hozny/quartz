@@ -9,7 +9,7 @@ draft: false
 2. Raise until weight is all on big toe.
 3. Feet further back is harder, one leg at a time is even harder.
 
-![](Pasted%20image%2020220818112859.png)
+![](Zettelkasten/Pasted%20image%2020220818112859.png)
 ## Why
 Flexor Hallucis Longus absorbs impact when landing so strengthening it decreases the absorption required by your knees. It is the first muscle that absorbs when you land on your foot.
 

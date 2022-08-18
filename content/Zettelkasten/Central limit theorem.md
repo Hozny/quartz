@@ -8,7 +8,7 @@ The mean of samples taken from a distribution (with defined distribution mean an
 Definition:
 ![[Pasted image 20220127212715.png]]
 
-![](Pasted%20image%2020220111142227.png)
+![](Zettelkasten/Pasted%20image%2020220111142227.png)
 ## References
 1. 
 
