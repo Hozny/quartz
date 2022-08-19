@@ -8,3 +8,4 @@ Most of the stuff I write is not meant for others to read.
 
 These are some that might be more readable:
 - [Knee ability zero](Zettelkasten/Knee%20ability%20zero.md)
+
