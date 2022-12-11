@@ -1,4 +1,4 @@
-U---
+---
 title: "Algorithms - CS 341"
 draft: false
 ---
@@ -22,6 +22,7 @@ Algorithmic paradigms
 [[NP and NP-Complete]]
 
 Final exam review: [[cs341 - final exam review]]
+
 ## Grading
 - 8 written assignments (6% each) 48% total
 - 2 programming assignments (6% each) 12% total
@@ -29,7 +30,6 @@ Final exam review: [[cs341 - final exam review]]
 - final 25%
 
 *must pass midterm + final weighted average*
-
 
 ### References
 1. Algorithms by Erikson: https://jeffe.cs.illinois.edu/teaching/algorithms/

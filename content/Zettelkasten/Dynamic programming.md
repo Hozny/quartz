@@ -18,6 +18,11 @@ DP can be sometimes seen as a local brute force method where we are checking all
 - this works when local options aren't impacted by options down the line
 - example: [[Bowling problem]]
 
+### General steps
+- what are the subproblems
+- formula for solving a subproblem in terms of smaller ones
+- order of solving subproblems
+
 ## Constructing optimal binary search trees
 O(n^3) -> we try each root k and then we have a table DP\[n, n\] which has the optimal subtree cost for binary tree containing elements i..j 
 

@@ -11,7 +11,7 @@ Examples:
 - [[Closest two points in 2D]]
 - [[Karatsuba multiplication]]
 - [[Multiplying matrices]]
-- [[Convex hull problem]]
+- [[Convex hull]]
 
 There is a common theme with multiplication of large integers and matrices.
 - divide up the problem and try to eliminate one (or more) of the required sub problems
